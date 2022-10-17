@@ -2,11 +2,10 @@
 locale: es
 tags: []
 layout: input_bottom
-editor: free_form
+editor: external
 type: problem
 extra_visible: false
-language: text
 teacher_info: ''
 manual_evaluation: false
 choices: []
-name: Não tão único
+name: Esta é a linha?

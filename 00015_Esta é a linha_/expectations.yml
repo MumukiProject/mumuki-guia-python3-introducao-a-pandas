@@ -2,10 +2,10 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Assigns:primera_libreria
+  inspection: Assigns:primeira_livraria
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Assigns:segunda_y_tercera_libreria
+  inspection: Assigns:segunda_e_terceira_livraria
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Assigns:ultima_libreria
+  inspection: Assigns:última_livraria

@@ -10,12 +10,12 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Recetas de cocina
+  value: Receitas de cozinha
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Datos estadísticos de un país
+  value: Dados estatísticos de um país
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Datos individualizados de sus ciudadanos
+  value: Dados individualizados de seus cidadãos
   checked: false
-name: Abierto al público
+name: Aberto ao público

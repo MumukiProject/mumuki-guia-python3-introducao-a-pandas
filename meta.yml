@@ -3,9 +3,9 @@ name: Introdução a Pandas
 locale: pt
 type: learning
 beta: false
+teacher_info: ''
 language: python3
 id_format: "%05d"
-private: false
 order:
 - 18
 - 1
@@ -25,3 +25,4 @@ order:
 - 15
 - 16
 - 17
+private: false

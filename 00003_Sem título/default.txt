@@ -1,4 +1,4 @@
-nombre,apellido,edad
+nome,sobrenome,idade
 Feli,Perez,24
 Dani,Lopez,32
 Juani,Vazquez,19

@@ -1,0 +1,1 @@
+Para adicionar o novo título e sabores de sorvete é necessário colocar uma vírgula e os novos valores em cada linha. Mas para adicionar uma linha, temos que escrevê-la abaixo das existentes.

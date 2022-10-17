@@ -1,0 +1,3 @@
+equal: "nome,sobrenome,idade,sorvete_favorito\r\nFeli,Perez,24,chocolate\r\nDani,Lopez,32,vainilla\r\nJuani,Vazquez,19,frutilla\r\nAle,Rodriguez,33,durazno"
+ignore_whitespace: true
+ignore_case: true

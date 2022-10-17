@@ -1,1 +1,0 @@
-Para agregar el nuevo título y los gustos de helado es necesario poner una coma y los nuevos valores en cada fila. En cambio, para agregar una fila, tenemos que escribirla debajo de las existentes.

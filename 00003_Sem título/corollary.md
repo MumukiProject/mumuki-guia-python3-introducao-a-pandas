@@ -1,0 +1,1 @@
+Como você pode ver, não há grande complexidade quando se trata de adicionar linhas ou colunas a um csv. :raised_hands: 

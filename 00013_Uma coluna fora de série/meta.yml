@@ -18,4 +18,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: '`len(librerias["city_name"])`'
   checked: true
-name: Una columna fuera de serie
+name: Uma coluna fora de série

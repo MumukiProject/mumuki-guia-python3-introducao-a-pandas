@@ -10,15 +10,15 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: el operador `[]` devuelve `None`
+  value: o operador `[]` retorna `None`
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: el operador `[]` produce un `KeyError`
+  value: o operador `[]` produz um `KeyError`
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: el operador `[]` produce un `NameError`
+  value: o operador `[]` produz um `NameError`
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: el operador `[]` produce un `SyntaxError`
+  value: o operador `[]` produz um `SyntaxError`
   checked: false
 name: Acessando as colunas

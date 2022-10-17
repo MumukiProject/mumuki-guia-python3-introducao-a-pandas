@@ -16,7 +16,7 @@ choices:
   value: Mantém a ordem original, a qual parte do `1`
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Cambia su orden original
+  value: Altera a ordem original
   checked: true
 goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess

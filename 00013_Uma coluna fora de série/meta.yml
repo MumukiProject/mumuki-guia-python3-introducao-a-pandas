@@ -10,12 +10,12 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`librerias["sector"].head(3)`'
+  value: '`livrarias["sector"].head(3)`'
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`librerias["city_name"].tail(4)`'
+  value: '`livrarias["city_name"].tail(4)`'
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`len(librerias["city_name"])`'
+  value: '`len(livrarias["city_name"])`'
   checked: true
-name: Una columna fuera de serie
+name: Uma coluna fora de série

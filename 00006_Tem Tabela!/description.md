@@ -11,9 +11,9 @@ Até agora vínhamos trabalhando com valores como números (por exemplo, `1`, `4
 ```
 ... mas isso é muito limitado. É por isso que agora vamos usar um novo tipo de dados que representa precisamente as tabelas, compostas por colunas e linhas.
 
-> Qual o nome desse tipo de dados? Em uma nova célula, verifique o tipo de dados da variável `cines`:
+> Qual o nome desse tipo de dados? Em uma nova célula, verifique o tipo de dados da variável `cinemas`:
 >
 > ```python
-> type(cines)
+> type(cinemas)
 > ```
-> 
+>

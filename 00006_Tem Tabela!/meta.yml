@@ -12,5 +12,5 @@ choices: []
 goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
-  value: type\(\s*cines\s*\)\s*
+  value: type\(\s*cinemas\s*\)\s*
 name: Tem Tabela!

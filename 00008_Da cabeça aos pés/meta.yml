@@ -28,5 +28,5 @@ choices:
 goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_matches
-  regexp: cines.tail(\s*5\s*)\s*
+  regexp: cinemas.tail(\s*5\s*)\s*
 name: Da cabeça aos pés

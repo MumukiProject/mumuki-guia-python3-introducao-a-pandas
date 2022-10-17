@@ -1,3 +1,3 @@
-¡Excelente!
+Excelente!
 
-Todo indica que nuestro archivo ejemplo contenía nombres, apellidos y edades, pero ¿podemos afirmar eso con total seguridad? :thinking_face: 
+Tudo indica que nosso arquivo de exemplo continha apelidos, sobrenomes e idades, mas podemos dizer isso com toda a certeza? :thinking_face:

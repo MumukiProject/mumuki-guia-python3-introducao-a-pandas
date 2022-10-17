@@ -1,2 +1,1 @@
-
-Al igual que con un diccionario, si accedemos a una columna de un `DataFrame` y ésta no existe, fallará. 💥
+Da mesma forma que acontece com um dicionário, se acessamos uma coluna de um `DataFrame` que não existe, falhará. 💥  

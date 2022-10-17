@@ -10,16 +10,16 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: No se muestra nada
+  value: Nada é exibido
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Aparece una tabla
+  value: Aparece uma tabela
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Aparece un gráfico
+  value: Aparece um gráfico
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Se produce un error
+  value: Ocorre um erro
   checked: false
 goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess

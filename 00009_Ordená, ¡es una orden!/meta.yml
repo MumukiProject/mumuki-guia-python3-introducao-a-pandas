@@ -1,0 +1,25 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Mantiene su orden original, el cual parte desde `0`
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Mantiene su orden original, el cual parte desde `1`
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Cambia su orden original
+  checked: true
+goal: |
+  --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  kind: last_query_equals
+  value: TODO
+name: Ordená, ¡es una orden!

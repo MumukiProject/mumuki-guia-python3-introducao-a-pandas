@@ -1,0 +1,24 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: el operador `[]` devuelve `None`
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: el operador `[]` produce un `KeyError`
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: el operador `[]` produce un `NameError`
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: el operador `[]` produce un `SyntaxError`
+  checked: false
+name: Accediendo a las columnas

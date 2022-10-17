@@ -1,0 +1,9 @@
+
+- name: 'len(cines)'
+  keys:
+    len:
+      equal: 329
+- name: 'len(cines.columns)'
+  keys:
+    lencols:
+      equal: 17

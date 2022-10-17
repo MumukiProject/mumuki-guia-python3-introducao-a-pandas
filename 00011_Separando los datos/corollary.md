@@ -1,0 +1,1 @@
+Los csv con los que trabajemos pueden tener sus valores separados por otros caracteres más allá de las comas y los puntos y coma pero estos dos son los más comunes. 

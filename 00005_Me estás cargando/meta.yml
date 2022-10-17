@@ -1,0 +1,28 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: single_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: No se muestra nada
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Aparece una tabla
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Aparece un gráfico
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Se produce un error
+  checked: false
+goal: |
+  --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  kind: last_query_equals
+  value: TODO
+name: Me estás cargando

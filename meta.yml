@@ -5,5 +5,23 @@ type: learning
 beta: false
 language: python3
 id_format: "%05d"
-order: []
 private: false
+order:
+- 18
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17

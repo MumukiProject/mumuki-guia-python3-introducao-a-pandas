@@ -1,0 +1,18 @@
+- name: '¿Cuántos museos hay?'
+  keys:
+    len:
+      equal: 1182
+- name: '¿En cuántas localidades diferentes están estos museos?'
+  keys:
+    nunique:
+      equal: 518
+- name: '¿Cuál es la localidad con más museos?'
+  keys:
+    idxmax:
+      match: '.*[Bb]uenos\s*[Aa]ires.*'
+- name: '¿Cuántos museos tiene la localidad que más museos tiene?'
+  keys:
+    max:
+      equal: 132            
+      
+      

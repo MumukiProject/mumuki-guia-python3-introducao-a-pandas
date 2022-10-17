@@ -1,0 +1,32 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`head` ordena según `loc_code` de forma ascendente"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`tail` ordena según `loc_code` de forma ascendente"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`head` ordena según `prov_id` de forma ascendente"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: "`tail` ordena según `prov_id` de forma descendente"
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Todas las filas devueltas por `head` y `tail` en los ejemplos tienen en `category`
+    el valor  `Salas de cine`
+  checked: true
+goal: |
+  --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  kind: last_query_matches
+  regexp: cines.tail(\s*5\s*)\s*
+name: De la cabeza a los pies

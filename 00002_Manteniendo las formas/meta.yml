@@ -1,0 +1,27 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El primer campo representa un nombre o apodo
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El primer campo representa una edad
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El segundo campo representa la ciudad de nacimiento
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El segundo campo representa un apellido
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: El tercer campo representa una fecha de nacimiento
+  checked: false
+name: Manteniendo las formas

@@ -1,0 +1,2 @@
+---
+equal: el operador `[]` produce un `KeyError`

@@ -1,0 +1,5 @@
+- keys: 
+    type:
+      match:
+        expected: '.*DataFrame'
+        ignore_whitespace: true

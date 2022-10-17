@@ -1,0 +1,30 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Que los datos fueron fueron actualizados en 2018 y 2020
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Que en 2020 se actualizaron 19 filas
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Que en 2018 se actualizaron 19 filas
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Que en Chubut hay 19 librerías
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Que en San Luis hay más librerías que en Formosa
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: Que en Catamarca hay más librerías que en Jujuy
+  checked: false
+name: Contame

@@ -1,9 +1,9 @@
 
-- name: 'len(cines)'
+- name: 'len(cinemas)'
   keys:
     len:
       equal: 329
-- name: 'len(cines.columns)'
+- name: 'len(cinemas.columns)'
   keys:
     lencols:
       equal: 17

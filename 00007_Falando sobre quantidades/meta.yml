@@ -13,4 +13,4 @@ goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_matches
   regexp: len(\s*cines.columns\s*)\s*
-name: Hablando de cantidades
+name: Falando sobre quantidades

@@ -10,18 +10,18 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: El primer campo representa un nombre o apodo
+  value: O primeiro campo representa um nome ou apelido
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: El primer campo representa una edad
+  value: O primeiro campo representa uma idade
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: El segundo campo representa la ciudad de nacimiento
+  value: O segundo campo representa a cidade de nascimento
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: El segundo campo representa un apellido
+  value: O segundo campo representa um sobrenome
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: El tercer campo representa una fecha de nacimiento
+  value: O terceiro campo representa uma data de nascimento
   checked: false
-name: Manteniendo las formas
+name: Mantendo as formas

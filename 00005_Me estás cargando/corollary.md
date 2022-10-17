@@ -1,1 +1,1 @@
-¡Está vivo! ⚡ ¡Apareció una tabla! 
+Está vivo! ⚡ Apareceu uma tabela! 

@@ -10,23 +10,23 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`head` ordena según `loc_code` de forma ascendente"
+  value: "`head` ordene segundo `loc_code` de forma ascendente"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`tail` ordena según `loc_code` de forma ascendente"
+  value: "`tail` ordene segundo `loc_code` de forma ascendente"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`head` ordena según `prov_id` de forma ascendente"
+  value: "`head` ordene segundo `prov_id` de forma ascendente"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`tail` ordena según `prov_id` de forma descendente"
+  value: "`tail` ordene segundo `prov_id` de forma descendente"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Todas las filas devueltas por `head` y `tail` en los ejemplos tienen en `category`
-    el valor  `Salas de cine`
+  value: Todas as linhas devolvidas por `head` e `tail` nos exemplos têm em `category`
+    o valor `Salas de cinema`
   checked: true
 goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_matches
   regexp: cines.tail(\s*5\s*)\s*
-name: De la cabeza a los pies
+name: Da cabeça aos pés

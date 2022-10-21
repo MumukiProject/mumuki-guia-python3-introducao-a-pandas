@@ -25,4 +25,4 @@ goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
   value: TODO
-name: Me estás cargando
+name: Carregando dados

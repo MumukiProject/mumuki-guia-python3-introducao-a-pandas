@@ -1,3 +1,3 @@
-equal: "nome,sobrenome,idade,sorvete_favorito\r\nFeli,Perez,24,chocolate\r\nDani,Lopez,32,vainilla\r\nJuani,Vazquez,19,frutilla\r\nAle,Carvalho,33,pêssego"
+equal: "nome,sobrenome,idade,sorvete_favorito\r\nFeli,Perez,24,chocolate\r\nDani,Lopez,32,baunilha\r\nJuani,Vazquez,19,morango\r\nAle,Carvalho,33,pêssego"
 ignore_whitespace: true
 ignore_case: true

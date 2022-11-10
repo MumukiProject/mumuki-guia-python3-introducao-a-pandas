@@ -1,6 +1,6 @@
 Até agora vínhamos trabalhando com valores como números (por exemplo, `1`, `42` e `30410`), cadeias de caracteres (`"isso é uma string"`) ou booleanos (`True` ou ` False `)...
 
-```python
+```ruby
 # type é uma função que nos permite saber o tipo de dado de um valor
 ム type(1)
 <class 'int'>

@@ -18,5 +18,5 @@ E se agora você quiser adicionar a informação de qual é o seu sabor de sorve
 > * Feli gosta de sorvete de `chocolate`;
 > * o sabor favorito de Dani é `baunilha`;
 > * Juani sempre escolhe `morango`;
-> * `Ale Rodriguez` de `33` anos ama o sorvete de `pêssego`.
+> * `Ale Carvalho` de `33` anos ama o sorvete de `pêssego`.
 

@@ -6,9 +6,9 @@ Para evitar esse tipo de ambiguidade, os arquivos CSV normalmente conterão os t
 
 ```csv
 nome,sobrenome,idade
-Feli,Perez,24
-Dani,Lopez,32
-Juani,Vazquez,19
+Feli,Pereira,24
+Dani,Martins,32
+Umi,Silva,19
 ```
 
 E se agora você quiser adicionar a informação de qual é o seu sabor de sorvete favorito :ice_cream:?
@@ -17,6 +17,6 @@ E se agora você quiser adicionar a informação de qual é o seu sabor de sorve
 >
 > * Feli gosta de sorvete de `chocolate`;
 > * o sabor favorito de Dani é `baunilha`;
-> * Juani sempre escolhe `morango`;
+> * Umi sempre escolhe `morango`;
 > * `Ale Carvalho` de `33` anos ama o sorvete de `pêssego`.
 

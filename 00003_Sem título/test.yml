@@ -6,3 +6,4 @@ equal: |
   Ale,Carvalho,33,pêssego
 ignore_whitespace: true
 ignore_case: true
+multiline: true

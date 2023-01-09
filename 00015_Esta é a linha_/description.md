@@ -36,4 +36,4 @@ E eles não se parecem apenas nisso! Usando `iloc` também podemos obter segment
 > 
 > * `primeira_livraria`: um `Series` com a primeira linha de `livrarias`
 > * `segunda_e_terceira_livraria`: um `DataFrame` com as correspondentes linhas de `livraria`
-> * `última_livraria`: similar a `primeira_livraria`, mas neste caso com a última.
+> * `ultima_livraria`: similar a `primeira_livraria`, mas neste caso com a última.

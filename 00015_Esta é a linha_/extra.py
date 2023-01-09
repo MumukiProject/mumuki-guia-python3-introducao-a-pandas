@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-librerias = pd.DataFrame([
+livrarias = pd.DataFrame([
   {'city_id': 2000010, 'prov_id': 2, 'dep_id': 2000, 'obs': np.nan, 'category': 'Librerias', 'prov_name': 'Ciudad Autónoma de Buenos Aires', 'dep_name': 'Ciudad Autónoma de Buenos Aires', 'city_name': 'Ciudad Autonoma de Buenos Aires', 'name': 'La Ley Casa Central', 'address': 'Tucumán 1471', 'floor': np.nan, 'zip_code': np.nan, 'area_code': 11.0, 'sector': 'Privado', 'update_year': 2018},
  {'city_id': 58056010, 'prov_id': 58, 'dep_id': 58056, 'obs': np.nan, 'category': 'Librerias', 'prov_name': 'Neuquén', 'dep_name': 'Lacar', 'city_name': 'San Martín de los Andes', 'name': 'Pata Libro', 'address': 'San Martin 866', 'floor': np.nan, 'zip_code': np.nan, 'area_code': 2.972, 'sector': 'Privado', 'update_year': 2018},
  {'city_id': 2000010, 'prov_id': 2, 'dep_id': 2000, 'obs': np.nan, 'category': 'Librerias', 'prov_name': 'Ciudad Autónoma de Buenos Aires', 'dep_name': 'Ciudad Autónoma de Buenos Aires', 'city_name': 'Ciudad Autonoma de Buenos Aires', 'name': 'Libria', 'address': 'Juan B. Ambrosetti 740', 'floor': np.nan, 'zip_code': np.nan, 'area_code': 11.0, 'sector': 'Privado', 'update_year': 2018},

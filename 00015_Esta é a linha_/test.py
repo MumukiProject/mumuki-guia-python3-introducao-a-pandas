@@ -9,7 +9,7 @@ class Test(unittest.TestCase):
     self.assertEquals(type(segunda_e_terceira_livraria), pd.DataFrame)
 
   def test_última_livraria_é_uma_series(self):
-    self.assertEquals(type(última_livraria), pd.Series)
+    self.assertEquals(type(ultima_livraria), pd.Series)
 
   def test_primeira_livraria_tem_o_conteúdo_correto(self):
     self.assertEquals(primeira_livraria.to_json(), livrarias.iloc[0].to_json())
@@ -18,4 +18,4 @@ class Test(unittest.TestCase):
     self.assertEquals(segunda_e_terceira_livraria.to_json(), livrarias.iloc[1:3].to_json())
 
   def test_última_livraria_tem_o_conteúdo_correto(self):
-    self.assertEquals(última_livraria.to_json(), livrarias.iloc[-1].to_json())
+    self.assertEquals(ultima_livraria.to_json(), livrarias.iloc[-1].to_json())

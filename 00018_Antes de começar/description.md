@@ -1,4 +1,4 @@
-A partir desta lição, começaremos a usar uma nova ferramenta: os cadernos interativos Python (o `ipynb`s, devido as siglas em inglês de _Interactive Python Notebook_). Eles permitirão resolver problemas mais complexos do que os que vimos até agora, e precisaremos deles para fazer vários dos próximos exercícios.
+A partir desta lição, começaremos a usar uma nova ferramenta: os cadernos interativos Python (o `ipynb`s,  sigla de _Interactive Python Notebook_). Eles permitirão resolver problemas mais complexos do que os que vimos até agora, e precisaremos deles para fazer vários dos próximos exercícios.
 
 A maneira mais fácil de começar a trabalhar com eles é usando a plataforma
  [Colab](https://colab.research.google.com) de Google. Outra alternativa um pouco mais complexa mas também muito flexível é instalar no seu  computador o laboratório de [Juptyer](https://jupyter.org/install) 🔬. 

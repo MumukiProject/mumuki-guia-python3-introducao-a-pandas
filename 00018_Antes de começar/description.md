@@ -6,4 +6,4 @@ A maneira mais fácil de começar a trabalhar com eles é usando a plataforma
 
 Dentro de qualquer uma das duas plataformas, você poderá criar cadernos, nos quais coexistirão fragmentos (chamados _células_) de texto (para fazer anotações) e código (para executar experimentos).
 
-Depois de criar um caderno no Juyter ou no Colab, junte-se a nós para o próximo exercício.
+Depois de criar um caderno no Jupyter ou no Colab, junte-se a nós para o próximo exercício.

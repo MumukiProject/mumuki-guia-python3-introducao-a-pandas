@@ -15,7 +15,7 @@ cinemas
 >
 > 1. Crie um _caderno interativo_ no Colab ou Jupyter (se ainda não fez)
 > 2. Adicione uma célula de código
-> 3. Cole o código anterior em uma nova célula
+> 3. Cole o código anterior na nova célula
 > 4. E, finalmente, execute a célula.
 >
 > O que acontece?

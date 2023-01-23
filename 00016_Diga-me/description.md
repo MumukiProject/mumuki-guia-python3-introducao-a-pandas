@@ -11,4 +11,4 @@ Já estamos terminando essa lição 🥳! E para comemorar vamos ver mais uma fe
 > ```python
 > pd.value_counts(livrarias["update_year"])
 > ```
-> ... e responda: o que _parecem_ estar dizendo?
+> ... e responda: o que elas _parecem_ estar dizendo?

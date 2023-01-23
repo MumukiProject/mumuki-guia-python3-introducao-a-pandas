@@ -10,16 +10,16 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`head` ordene segundo `loc_code` de forma ascendente"
+  value: "`head` ordena segundo `loc_code` de forma ascendente"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`tail` ordene segundo `loc_code` de forma ascendente"
+  value: "`tail` ordena segundo `loc_code` de forma ascendente"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`head` ordene segundo `prov_id` de forma ascendente"
+  value: "`head` ordena segundo `prov_id` de forma ascendente"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`tail` ordene segundo `prov_id` de forma descendente"
+  value: "`tail` ordena segundo `prov_id` de forma descendente"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Todas as linhas devolvidas por `head` e `tail` nos exemplos têm em `category`

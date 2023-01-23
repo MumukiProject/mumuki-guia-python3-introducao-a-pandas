@@ -2,7 +2,7 @@ Agora que importamos a biblioteca `pandas`, o próximo passo é obter um lote de
 
 Depois de encontrarmos o endereço, devemos copiar o link 📋, para não precisarmos escrever o endereço à mão. 💡 Dica: você geralmente pode copiar um link que encontrou na Internet usando o botão secundário do _mouse_ 🖱️.
 
-E agora sim, podemos finalmente fazer upload em um `DataFrame` chamado `cinemas` usando a função `read_csv`:
+E agora sim, podemos finalmente carregá-lo como um `DataFrame` chamado `cinemas` usando a função `pd.read_csv`:
 
 ```python
 import pandas as pd

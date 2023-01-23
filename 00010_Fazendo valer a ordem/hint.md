@@ -9,6 +9,6 @@ cinemas.sort_values("sector").head(5)
 Por outro lado, se em um caderno você quiser atribuir uma expressão de `DataFrame`s e ver o resultado, você pode fazer da seguinte forma:
 
 ```python
-uma_variável = ...
-uma_variável
+uma_variavel = ...
+uma_variavel
 ```

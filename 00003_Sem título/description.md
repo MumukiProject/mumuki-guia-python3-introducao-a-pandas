@@ -1,7 +1,6 @@
 O arquivo CSV que vimos anteriormente continha informações de pessoas, ... ou pelo menos é o que parece :person_shrugging:. Talvez sejam seus apelidos, sobrenomes e suas idades, ou talvez sejam alunos e estejam nos informando o número de disciplinas aprovadas.
 
-Para evitar esse tipo de ambiguidade, os arquivos CSV normalmente conterão os títulos de cada coluna em sua primeira linha. Por exemplo, assim poderíamos ver agora o nosso `dados_exemplo.csv`:
-
+Para evitar esse tipo de ambiguidade, os arquivos CSV normalmente conterão os títulos de cada coluna em sua primeira linha. Por exemplo, agora poderíamos ver o nosso `dados_exemplo.csv` assim:
 
 
 ```csv

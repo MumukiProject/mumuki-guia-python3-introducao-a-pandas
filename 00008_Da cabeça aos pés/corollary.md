@@ -1,1 +1,1 @@
-Exato! É importante notar que nem `head` nem `tail` ordenam a tabela sob nenhum critério, mas apenas nos dão as primeiras linhas, de acordo com a posição em que estavam originalmente.
+Exato! É importante notar que nem `head` nem `tail` ordenam a tabela sob nenhum critério, mas apenas nos dão as primeiras ou últimas linhas, de acordo com a posição em que estavam originalmente.

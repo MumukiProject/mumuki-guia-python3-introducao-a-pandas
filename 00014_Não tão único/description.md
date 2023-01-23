@@ -18,6 +18,7 @@ Como vemos, `unique` retorna esse conjunto de valores únicos na forma de um `ar
 [2018, 2020]
 ```
 
-Mas normalmente não será necessário, já que os `array`s também são seqüências com as quais você pode fazer quase todas as mesmas operações que com `list`s.
+Mas normalmente não é necessário, já que os `array`s também são sequências com as quais você pode fazer quase todas as mesmas operações que com `list`s.
+
 
 > Vamos testar o que vimos!  De **quantas** cidades (diferentes) temos informação neste lote de dados?

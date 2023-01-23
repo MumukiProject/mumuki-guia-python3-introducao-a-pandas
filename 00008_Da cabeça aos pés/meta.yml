@@ -23,7 +23,7 @@ choices:
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Todas as linhas devolvidas por `head` e `tail` nos exemplos têm em `category`
-    o valor `Salas de cinema`
+    o valor `Salas de cine`
   checked: true
 goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess

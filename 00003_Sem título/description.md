@@ -10,7 +10,7 @@ Dani,Martins,32
 Umi,Silva,19
 ```
 
-E se agora você quiser adicionar a informação de qual é o seu sabor de sorvete favorito :ice_cream:?
+E se agora você quiser adicionar a informação de qual é o sabor de sorvete favorito :ice_cream: dessas pessoas?
 
 > Modifique o csv no editor de código para que contenha a coluna `sorvete_favorito` e pense no seguinte:
 >

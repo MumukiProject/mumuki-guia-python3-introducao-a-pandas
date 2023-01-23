@@ -1,6 +1,6 @@
 Agora que importamos a biblioteca `pandas`, o próximo passo é obter um lote de dados, como por exemplo, [uma lista de cinemas na Argentina](https://docs.google.com/spreadsheets/d/e/2PACX-1vRSa9oM9fC-QlT7VOeGhZQtrWnlNSTsk3U8DWGTOXUWtPH6u9o5O5eZ0kTg8mFTwAn9vMdGRK7o2SPB/pub?gid=969960562&single=true&output=csv),
 
-Depois de encontrarmos o endereço, devemos copiar o link na prancheta 📋, para não precisarmos escrever o endereço à mão, 💡 Dica: se você o encontrar enquanto navega na Internet, geralmente pode copiar esse link usando o botão secundário do _mouse_ 🖱️.
+Depois de encontrarmos o endereço, devemos copiar o link 📋, para não precisarmos escrever o endereço à mão. 💡 Dica: você geralmente pode copiar um link que encontrou na Internet usando o botão secundário do _mouse_ 🖱️.
 
 E agora sim, podemos finalmente fazer upload em um `DataFrame` chamado `cinemas` usando a função `read_csv`:
 

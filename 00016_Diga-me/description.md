@@ -1,4 +1,4 @@
-Já estamos terminando essa lição 🥳! E para comemorar vamos ver mais uma ferramenta que o `pandas` nós oferece.  😝
+Já estamos terminando essa lição 🥳! E para comemorar vamos ver mais uma ferramenta que o `pandas` nos oferece.  😝
   
 É comum quando trabalhamos com dados querer agrupar elementos utilizando algum critério, e embora vamos trabalhar isso com mais detalhes em lições futuras, vamos aprender sobre um comando muito útil, `value_counts`. No entanto, mais interessante do que dizer o que ele faz é experimentá-lo.
 

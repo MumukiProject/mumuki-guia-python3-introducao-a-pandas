@@ -1,1 +1,1 @@
-Provavelmente irá ajudá-lo combinar `unique` com `len`. :wink: 
+Provavelmente combinar `unique` com `len` irá te ajudar. :wink: 

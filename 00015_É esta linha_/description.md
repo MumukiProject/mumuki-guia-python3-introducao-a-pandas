@@ -18,7 +18,7 @@ Name: 4, dtype: object
 
 Como vemos, `iloc[]` retornará um `Series`, que agora representa uma linha em vez de uma coluna. E por que 4 se é a **quinta** linha? Porque assim como as listas, as linhas começam da posição 0.
 
-E eles não se parecem apenas nisso! Usando `iloc` também podemos obter segmentos usando a sintaxe de _slices_, que agora retornará um `DataFrame`:
+E elas não se parecem apenas nisso! Usando `iloc` também podemos obter segmentos usando a sintaxe de _slices_, que agora retornará um `DataFrame`:
 
 
 ```python

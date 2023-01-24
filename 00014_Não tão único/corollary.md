@@ -5,7 +5,7 @@ Perfeito! :clap: Você provavelmente fez algo como:
 254
 ```
 
-Como essa operação é tão comum, temos um atalho, a operação `nunique`:
+Essa operação é tão comum que temos um atalho, a operação `nunique`:
 
 ```python
 ム livrarias["city_name"].nunique()

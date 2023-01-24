@@ -11,7 +11,7 @@ Por exemplo:
 array([2018, 2020])
 ```
 
-Como vemos, `unique` retorna esse conjunto de valores únicos na forma de um `array`, que para todos os propósitos práticos podemos pensar como algo muito, muito parecido com uma lista. Se de todas maneiras queremos transformá-lo em um `list` 🔄, poderemos fazer: 
+Como vemos, `unique` retorna esse conjunto de valores únicos na forma de um `array`, que para todos os propósitos práticos podemos pensar como algo muito, muito parecido com uma lista. Se ainda assim queremos transformá-lo em `list` 🔄, podemos fazer: 
 
 ```python
 ム list(livrarias["update_year"].unique())

@@ -8,7 +8,7 @@ Dani;Lopez;32
 Juani;Vazquez;19
 ```
 
-O problema é que nesses casos `read_csv` não funcionará :grimacing:. Mas não entre em pânico que isso será resolvido facilmente 😌. Temos apenas que passar um parâmetro `sep` a `read_csv`!
+O problema é que nesses casos `read_csv` não funcionará :grimacing:. Mas não entre em pânico que isso será resolvido facilmente 😌. Temos apenas que passar um parâmetro `sep` ao `read_csv`!
 
 ```python
 pessoas = pd.read_csv(localizacao, sep=";")

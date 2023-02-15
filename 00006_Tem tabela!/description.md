@@ -2,11 +2,11 @@ Até agora vínhamos trabalhando com valores como números (por exemplo, `1`, `4
 
 ```ruby
 # type é uma função que nos permite saber o tipo de dado de um valor
-ム type(1)
+ムtype(1)
 <class 'int'>
-ム type("olá mundo")
+ムtype("olá mundo")
 <class 'str'>
-ム type(True)
+ムtype(True)
 <class 'bool'>
 ```
 ... mas isso é muito limitado. É por isso que agora vamos usar um novo tipo de dados que representa precisamente as tabelas, compostas por colunas e linhas.

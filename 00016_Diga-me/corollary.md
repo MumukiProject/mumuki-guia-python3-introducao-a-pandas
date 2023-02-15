@@ -3,7 +3,7 @@ Conseguimos tirar muitas conclusões!😁
 Vamos passar a limpo o que acabamos de executar. `value_counts` retorna uma coluna (`Series`) com o número de ocorrências de cada valor da coluna que passamos como argumento:
 
 ```python
-ム pd.value_counts(livrarias["prov_name"])
+ムpd.value_counts(livrarias["prov_name"])
 Ciudad Autónoma de Buenos Aires                          608
 Buenos Aires                                             386
 Córdoba                                                  163

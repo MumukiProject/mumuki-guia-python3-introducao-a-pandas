@@ -1,7 +1,7 @@
 Já vimos como acessar uma coluna pelo nome, mas e se quisermos acessar uma determinada linha? Para fazer isso temos `iloc`! Por exemplo, se quiséssemos obter a quinta linha do nosso dataset, deveríamos fazer:
 
 ```python
-ム livrarias.iloc[4] # sim, com colchetes
+ムlivrarias.iloc[4] # sim, com colchetes
 city_id                                2000010
 prov_id                                      2
 dep_id                                    2000
@@ -22,7 +22,7 @@ E elas não se parecem apenas nisso! Usando `iloc` também podemos obter segment
 
 
 ```python
-ム livrarias.iloc[5:8]
+ムlivrarias.iloc[5:8]
 ```
 
 ||city_id|prov_id|dep_id|obs|category|prov_name|(...)|

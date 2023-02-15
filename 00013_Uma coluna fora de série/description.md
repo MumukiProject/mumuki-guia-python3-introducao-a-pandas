@@ -1,7 +1,7 @@
 Já sabemos que o que chamamos de tabela `pandas` chama-se `DataFrame`. Da mesma forma, o que chamamos de coluna `pandas` chama-se `Series`. Sim, no plural mesmo sendo uma só!
 
 ```python
-ム type(livrarias["sector"])
+ムtype(livrarias["sector"])
 pandas.core.series.Series
 ```
 

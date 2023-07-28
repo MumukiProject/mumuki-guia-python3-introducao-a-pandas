@@ -8,18 +8,15 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Nada é exibido
+- value: Nada é exibido
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Aparece uma tabela
+- value: Aparece uma tabela
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Aparece um gráfico
+- value: Aparece um gráfico
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Ocorre um erro
+- value: Ocorre um erro
   checked: false
 goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess

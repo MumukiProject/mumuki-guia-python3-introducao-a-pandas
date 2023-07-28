@@ -8,21 +8,17 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`head` ordena segundo `loc_code` de forma ascendente"
+- value: "`head` ordena segundo `loc_code` de forma ascendente"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`tail` ordena segundo `loc_code` de forma ascendente"
+- value: "`tail` ordena segundo `loc_code` de forma ascendente"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`head` ordena segundo `prov_id` de forma ascendente"
+- value: "`head` ordena segundo `prov_id` de forma ascendente"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`tail` ordena segundo `prov_id` de forma descendente"
+- value: "`tail` ordena segundo `prov_id` de forma descendente"
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Todas as linhas devolvidas por `head` e `tail` nos exemplos têm em `category`
+- value: Todas as linhas devolvidas por `head` e `tail` nos exemplos têm em `category`
     o valor `Salas de cine`
   checked: true
 goal: |
